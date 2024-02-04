@@ -1,4 +1,4 @@
-3D earth and moon animation in React - using React Three/Fiber
+3D earth and moon animation in React - using React Three/Fiber.
 
 Rotating earth with orbiting moon.
 
