@@ -1,8 +1,14 @@
-# React + Vite
+Earth and moon animation in React - usin React Three/Fiber
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Inspirations and help fetched from the following Youtube videos:
 
-Currently, two official plugins are available:
+- https://www.youtube.com/watch?v=M5nt1GamB_g by https://www.youtube.com/@patrick_pan
+- https://www.youtube.com/watch?v=VNd8n566R48 by https://www.youtube.com/@CodeWorkshops
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Credits:
+
+- This work is based on "Earth" (https://sketchfab.com/3d-models/earth-f7a76c63ff1846afb2d606e5c8369c15) by
+  PatelDev (https://sketchfab.com/PatelDev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+- This work is based on "Our Moon" (https://sketchfab.com/3d-models/our-moon-0daa5bd2ddd14f4bbb8f0d2d5c2df6e1) by
+  Homless_Models (https://sketchfab.com/hl_models) licensed under
+  CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
