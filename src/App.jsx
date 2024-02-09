@@ -15,7 +15,7 @@ const App = () => {
 			<Canvas camera={{ position: [0, 2, 10] }}>
 				<Suspense fallback={null}>
 					<OrbitControls />
-					<ambientLight intensity={1.1} />
+					<ambientLight intensity={0.1} />
 					{/*<Grid size={10} />*/}
 					<OrbitingMoon
 						scale='0.1'
